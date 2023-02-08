@@ -166,10 +166,10 @@ a {
 }
 
 .clients .images {
+    margin-top: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 70px;
 }
 
 .clients .images a {

@@ -60,18 +60,12 @@ a {
 .fixed-header
 {
     background: #E6F0FF;
-    padding-top: 26px;
-    position: sticky;
-    top: -26px;
-    z-index: 1;
 }
 
-.hero-wrap {
+.header {
     position: relative;
     background: #E6F0FF;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
 }
 
 .navbar {
